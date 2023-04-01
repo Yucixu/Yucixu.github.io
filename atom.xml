@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-31T13:44:00.332Z</updated>
+  <updated>2023-04-01T15:39:26.862Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="http://example.com/2023/03/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2023/03/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2023-03-31T13:44:00.000Z</published>
-    <updated>2023-03-31T13:44:00.332Z</updated>
+    <updated>2023-04-01T15:39:26.862Z</updated>
     
+    <content type="html"><![CDATA[<p>“你好，我叫于辞旭。”<br>“这是我的第一篇文章，今天我们说一下最近很火的chatGPT”</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“你好，我叫于辞旭。”&lt;br&gt;“这是我的第一篇文章，今天我们说一下最近很火的chatGPT”&lt;/p&gt;
+</summary>
+      
     
     
     
